@@ -1,0 +1,43 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../widgets"
+		},
+		{
+			"path": "../../tribe-events"
+		},
+		{
+			"path": "../../theme-dashboard"
+		},
+		{
+			"path": "../../template-parts"
+		},
+		{
+			"path": "../../sass"
+		},
+		{
+			"path": "../../page-templates"
+		},
+		{
+			"path": "../../learnpress"
+		},
+		{
+			"path": "../../languages"
+		},
+		{
+			"path": "../../js"
+		},
+		{
+			"path": "../../inc"
+		},
+		{
+			"path": "../../images"
+		},
+		{
+			"path": "../../css"
+		}
+	]
+}
